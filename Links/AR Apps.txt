@@ -1,0 +1,73 @@
+These are examples of AR learning Apps I have explored. And these are my findings.
+
+* Touch surgery surgical videos
+by Digital Surgery Ltd
+
+ONBOARDING
+After installing the app. The first screen you see is a registration page.
+Asking you to create an account or sign in if you already have one.
+
+You then accept some license agreement
+
+Next the user is asked for a first name and last name
+
+Another page is displayed and user is then asked for their profession. There 
+are options to choose from. Here is the list:
+	* medical professional
+	* surgical professional
+	* dental professional
+	* nursing and allied health
+	* industry partner
+	* patient
+	* None of the above
+
+Note: Which ever option you choosd, it becomes and remains highlighted.
+
+I chose 'none of the above' but regardless of the choice chosen, the next page
+displays the same options to choose fro
+
+Note: Users can return to previous page even if they move to the next page.
+
+Next page is a list of medical topics of interest for the users to choose from.
+The confirm button is grayed out but it becomes active when an option is chosen.
+
+Which takes me to another page to choose a secondary interest. Which differs and
+updates based on the choice from the previous menu.
+
+Once that is chosen the user is made to choose how they want to view content. They
+could:
+	* Watch surgical videos
+	* check out interactive 3D simulations
+	* watch webinars
+	* upload my surgical videos
+	* get the latest surgical news
+	* discuss surgery
+	* something else
+They can chose one or multiple options to work with.
+
+Once this is completed. It says all done which welcomes the user into the app.
+
+
+MY FINDINGS:
+
+3D models used are not interractive based on user hand interractions. Rather they are done
+using sliders on screen to rotate the model
+
+Swiping from left to right takes you to the next content
+
+Models quality is very smooth and appealing. Properly modelled, textured and lit properly.
+
+There are small annotation dots that displays and hides its content when clicked.
+
+Each model has a note beneath that is on top of a white frame. Which can be extended to 
+reveal more information when required
+
+Extra parts like the test must be downloaded as packages into the app before they can be
+used.
+
+DRAWBACK: It isn't AR. That is the content doesn't merge or interract with the physical
+world. The user is kept entirely in the app.
+
+POSITIVE: It is a great learning resource for medical practices.
+There are prompts on screen that users tap or slide a dot to to activate a preanimated
+interraction.
