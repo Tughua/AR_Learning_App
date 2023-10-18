@@ -1,0 +1,62 @@
+Unity Navigation Resources
+https://www.youtube.com/results?search_query=unity+3d%3A+how+to+create+augmented+reality+AR+application+with+drag%2C+rotate
+
+How to create an Augmented Reality AR Application with drag, rotate and scale Actions
+https://www.youtube.com/watch?v=xkxUjJNAsEE
+
+Note: Interesting channel with learning resources: https://www.youtube.com/@mtirscode1924/videos
+
+More learning Resource
+https://www.youtube.com/watch?v=KC0i5U1-1cc
+
+Use touch to scale, rotate and drag AR objects | Unity AR Foundation (ARKit & ARCore) | LeanTween
+https://www.youtube.com/watch?v=jgQVUttENTI
+
+
+More links and references:
+https://www.bing.com/videos/search?q=drag%2C+rotate%2C+and+scale+using+touch+in+C%23+unity&go=Search&qs=ds&form=QBVLPG
+
+
+
+UI Design reference - https://www.bing.com/images/search?q=mobile+ar+ui+designs&qpvt=Mobile+AR+ui+designs&form=IQFRML&first=1
+
+
+RESEARCH QUESTIONS
+
+Distraction or Traction? - Impact of sleek AR UI design on the user learning experience
+Can animated virtual content simplify the learning of complex mathematical topics?
+How can XR technology keep young learners engaged with the subject being studied? - Using AR as a case study
+How AR virtual content can aid the learning experience without becoming a distraction?
+Can AR virtual content add a narrative to abstract concepts in complex subject matter?
+
+For Tosin's Project
+https://www.dimensions.com/classifications/animals
+
+
+
+MORE INTERACTION TUTORIAL HERE:-
+Follow this link to the mid-section there are some nice interaction tutorials to work with
+https://www.youtube.com/results?search_query=unity+3d%3A+how+to+create+augmented+reality+AR+application+with+drag%2C+rotate
+
+
+
+Setting up AR Foundation in Unity 2023/2022
+https://www.youtube.com/watch?v=1s4HWqOBiCM
+
+Scale, Rotation, Move in Unity
+https://www.youtube.com/watch?v=5puGSOSmTYc
+
+Another Complete and comprehensive AR interaction Tutorial
+https://www.youtube.com/watch?v=Ypo9htrXEbY
+
+
+https://www.youtube.com/@omitram9696/videos
+
+Vuforia, Unity Tutorials - https://www.youtube.com/watch?v=5ZRgiATeYDc
+
+Working with Vuforia and AR Foundation:
+https://library.vuforia.com/unity-extension/vuforia-engine-and-ar-foundation
+
+
+Vuforia and Lean Touch:
+https://www.youtube.com/watch?v=rSbXR5h5cRc
